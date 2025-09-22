@@ -1,5 +1,5 @@
 # Hi, I'm Julia Sober
-I’m a Georgetown University Computer Science graduate student with a strong math and programming background. I’ve built real-world software and data models and love turning complex problems into clear, actionable solutions.
+I’m a Georgetown University Computer Science graduate student with a strong math and programming background. I build real-world software and data models, and I love turning complex problems into clear, actionable solutions.
 
 [LinkedIn](https://www.linkedin.com/in/JuliaSober/) | [Email](mailto:jgs137@georgetown.edu)
 
@@ -35,7 +35,7 @@ I’m a Georgetown University Computer Science graduate student with a strong ma
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 
 **Other Skills**  
-Data Structures & Algorithms | Object-Oriented Design | Unit Testing | Debugging | Linux/macOS/Windows | Computer Vision | Text Mining | Evolutionary Robotics
+Data Structures & Algorithms | Object-Oriented Design | Unit Testing | Debugging | CLI Linux/macOS/Windows | Computer Vision (cv2) | Text Mining | Evolutionary Robotics
 
 ---
 
@@ -60,8 +60,8 @@ Data Structures & Algorithms | Object-Oriented Design | Unit Testing | Debugging
 
 ## Projects
 
-- [Yelp Review Sentiment Analysis]([https://github.com/JuliaSober/COSC-5540-Yelp-Review-Sentiment-Analysis](https://github.com/julia-sober/COSC-5540-Yelp-Review-Sentiment-Analysis)) – Predictive modeling and text mining
-- [Quadruped Robot Simulation]([https://github.com/JuliaSober/Quadruped-Simulation](https://github.com/julia-sober/Evolutionary-Robotics)) – Evolutionary robotics and jumping optimization
+- [Yelp Review Sentiment Analysis](https://github.com/julia-sober/COSC-5540-Yelp-Review-Sentiment-Analysis) – Predictive modeling and text mining
+- [Quadruped Robot Simulation](https://github.com/julia-sober/Evolutionary-Robotics) – Evolutionary robotics and jumping optimization
 
 ---
 
@@ -73,6 +73,6 @@ Machine Learning, Formal Methods, Computer Vision, Data Analytics, Education, Ro
 
 ## Personal Interests
 
-Yoga, hiking, reading, MLB (lifelong NY Mets fan)
+Yoga, hiking, travel, reading, MLB (lifelong NY Mets fan)
 
 
