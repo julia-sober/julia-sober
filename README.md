@@ -48,7 +48,7 @@ Data Structures & Algorithms | Object-Oriented Design | Unit Testing | Debugging
 - Designed an optimized turbine-curtailment model projected to reduce wildlife collisions by 25%  
 
 **University of Vermont – Undergraduate Research Assistant** | Aug 2023 – May 2025  
-- **Machine Learning & Acoustic Modeling:** Processed audio clips to differentiate precipitation phases using advanced signal processing techniques; deployed model on low-power microcontrollers with 98% accuracy  
+- **Machine Learning & Acoustic Modeling:** Processed audio clips to differentiate precipitation phases using advanced signal processing techniques; deployed model on low-power microcontrollers with 98% accuracy; work published in the [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/document/11175467)  
 - **Formal Mathematics Research:** Used Microsoft Lean Theorem Prover to validate 100+ lemmas in combinatorial properties of Coxeter groups  
 
 **University of Vermont – Teaching Assistant & Tutor** | Sep 2022 – May 2025  
