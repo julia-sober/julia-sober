@@ -58,13 +58,6 @@ Data Structures & Algorithms | Object-Oriented Design | Unit Testing | Debugging
 
 ---
 
-## Projects
-
-- [Yelp Review Sentiment Analysis](https://github.com/julia-sober/COSC-5540-Yelp-Review-Sentiment-Analysis) – Predictive modeling and text mining
-- [Quadruped Robot Simulation](https://github.com/julia-sober/Evolutionary-Robotics) – Evolutionary robotics and jumping optimization
-
----
-
 ## Career Interests
 
 Machine Learning, Formal Methods, Computer Vision, Data Analytics, Education, Robotics
