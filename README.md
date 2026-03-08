@@ -1,20 +1,9 @@
-# Hi, I'm Julia Sober
-I’m a Georgetown University Computer Science graduate student with a strong math and programming background. I build real-world software and data models, and I love turning complex problems into clear, actionable solutions.
+# Julia Sober
+I am a **Computer Science Graduate Student at Georgetown University**. I'm interested in machine learning, model interpretability, and using data to solve complex problems. 
 
-[LinkedIn](https://www.linkedin.com/in/JuliaSober/) | [Email](mailto:jgs137@georgetown.edu)
+My experience is rooted in R&D—ranging from **acoustic modeling** and **formal mathematics** to **wildlife and environmental applications**. I am particularly drawn to work that requires communicating complex technical ideas to diverse audiences. 
 
----
-
-## Education
-
-**Georgetown University**, Washington, D.C.  
-*Master of Science in Computer Science* | Aug 2025 – May 2027
-
-**University of Vermont (UVM)**, Burlington, VT  
-*Bachelor of Arts in Computer Science and Pure Mathematics* | GPA: 3.97 | May 2025  
-**Honors & Awards:** Outstanding Senior in Mathematics & CS, Magna Cum Laude, 1st Place UVM CS Fair (Machine Learning/Research), Dean’s List, Presidential Scholar, Golden Key
-
----
+I care about building models that are **rigorous, explainable, and useful**.
 
 ## Technical Skills
 
@@ -34,38 +23,10 @@ I’m a Georgetown University Computer Science graduate student with a strong ma
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 
-**Other Skills**  
-Data Structures & Algorithms | Object-Oriented Design | Unit Testing | Debugging | CLI Linux/macOS/Windows | Computer Vision (cv2) | Text Mining | Evolutionary Robotics
-
----
-
-## Experience
-
-**Wildlife Imaging Systems – Software Engineering Intern** | Hinesburg, VT | May 2024 – Aug 2024  
-- Engineered an automated thresholding tool improving object detection accuracy by 10%  
-- Built a data pipeline consolidating 500,000+ weather records for predictive bat-risk modeling  
-- Developed a standardized end-to-end ML model process, reducing setup time for future projects  
-- Designed an optimized turbine-curtailment model projected to reduce wildlife collisions by 25%  
-
-**University of Vermont – Undergraduate Research Assistant** | Aug 2023 – May 2025  
-- **Machine Learning & Acoustic Modeling:** Processed audio clips to differentiate precipitation phases using advanced signal processing techniques; deployed model on low-power microcontrollers with 98% accuracy; work published in the [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/document/11175467)  
-- **Formal Mathematics Research:** Used Microsoft Lean Theorem Prover to validate 100+ lemmas in combinatorial properties of Coxeter groups  
-
-**University of Vermont – Teaching Assistant & Tutor** | Sep 2022 – May 2025  
-- Supported instruction in 7 courses across CS & Mathematics, including Python, Raspberry Pi, Linear Algebra, Algorithm Design, and Differential Equations  
-- Led weekly Raspberry Pi labs for 30+ students; developed supplemental materials and coordinated grading across TA team  
-- Provided individualized guidance, improving exam scores and course retention  
-
----
-
-## Career Interests
-
-Machine Learning, Formal Methods, Computer Vision, Data Analytics, Education, Robotics
-
----
-
 ## Personal Interests
-
 Yoga, hiking, travel, reading, MLB (lifelong NY Mets fan)
+
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/JuliaSober/) | [Email](mailto:jgs137@georgetown.edu)
 
 
